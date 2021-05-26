@@ -8,7 +8,7 @@ const prefix = '!';
 
 const fs = require('fs');
 
-const token = 'ODIzMzQxMjAxMjMwMTM1Mjk3.YFfaPw.a15iXmHho1M4WzOnNd_cg67SzZE';
+const token = 'ODIzMzQxMjAxMjMwMTM1Mjk3.YFfaPw.R_j16lwnDV4aQIoE-2-r3njVPrI';
 
 client.commands = new Discord.Collection();
 
