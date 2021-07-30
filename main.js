@@ -8,7 +8,7 @@ const prefix = '!';
 
 const fs = require('fs');
 
-const token = //REDACTED;
+//const token = [REDACTED];
 
 client.commands = new Discord.Collection();
 
